@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--- banner --->
+<img src="./banner/github-banner-final-v1.png" alt="Pranta Barua Banner">
+
 <!--- title --->
 <div id="user-content-toc">
   <ul align="center">
